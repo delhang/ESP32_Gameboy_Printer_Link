@@ -65,6 +65,9 @@ https://www.aliexpress.us/item/3256812487912722.html?channel=twinner
 
 
 
+
+
+
 Hold down button circled RED to access ESP32 via Wifi.  The light will turn solid blue.  Connect to NRPrinter Hotspot from your phone and open http://192.168.4.1 in a browser.
 
 <img width="576" height="1206" alt="image" src="https://github.com/user-attachments/assets/10d1a5e9-d1fa-4e9e-9be1-a249aa4c8a33" />
