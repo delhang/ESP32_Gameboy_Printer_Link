@@ -23,3 +23,17 @@ monitor before uploading again, or the serial port stays busy.
 If Upload cannot find the port, install the USB driver for the chip on
 your board (CP210x or CH340) and try again. If the upload starts and then
 fails to connect, hold the BOOT button and click Upload once more.
+
+
+
+## Printer that was tested
+This firmware was tested with a JEPEErbz model C9 mini pocket printer.
+It is the small cat-shaped Bluetooth thermal printer, about 3.1 by 4.3
+inches, sold as an inkless receipt and sticker printer with paper rolls
+included.
+Turn the printer on before you print from the Game Boy. This unit speaks
+the MXW01 Bluetooth protocol. In a phone's Bluetooth list its name starts
+with `MXW01`. Other cat-shaped pocket printers with that same name use the
+same protocol and should work. The SC03h printer used by the original
+NovenRetro firmware is a different protocol and will not print with this
+file.
