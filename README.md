@@ -42,3 +42,23 @@ file.
 
 Schematic for soldering 6 pin GBA (quality cable) to Level Shifter to ESP32 Devkit
 <img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/5280b452-8c42-4a94-b91a-3a3a875497ed" />
+
+
+
+ESP32 Unit used for this build
+https://a.co/d/03wegyV9
+
+Level Shifter
+https://a.co/d/01wC6ynW
+
+GBA Link Cable used
+https://a.co/d/04Ra4jOz
+
+USB C Power Unit for Battery
+https://a.co/d/0bwGDkLX
+
+On/Off Switch for USB C Power Unit
+https://a.co/d/0diJCmzM
+
+LiPo Battery pack used
+https://www.aliexpress.us/item/3256812487912722.html?channel=twinner 
