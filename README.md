@@ -51,6 +51,10 @@ Hold down button circled RED to access ESP32 via Wifi.  The light will turn soli
 
 
 
+
+
+
+
 ESP32 Unit used for this build
 https://a.co/d/03wegyV9
 
