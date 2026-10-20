@@ -43,16 +43,6 @@ file.
 Schematic for soldering 6 pin GBA (quality cable) to Level Shifter to ESP32 Devkit
 <img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/5280b452-8c42-4a94-b91a-3a3a875497ed" />
 
-Hold down button circled RED to access ESP32 via Wifi.  The light will turn solid blue.  Connect to NRPrinter Hotspot from your phone and open http://192.168.4.1 in a browser
-<img width="576" height="1206" alt="image" src="https://github.com/user-attachments/assets/10d1a5e9-d1fa-4e9e-9be1-a249aa4c8a33" />
-
-
-
-
-
-
-
-
 
 
 ESP32 Unit used for this build
@@ -72,3 +62,8 @@ https://a.co/d/0diJCmzM
 
 LiPo Battery pack used
 https://www.aliexpress.us/item/3256812487912722.html?channel=twinner 
+
+
+
+Hold down button circled RED to access ESP32 via Wifi.  The light will turn solid blue.  Connect to NRPrinter Hotspot from your phone and open http://192.168.4.1 in a browser
+<img width="576" height="1206" alt="image" src="https://github.com/user-attachments/assets/10d1a5e9-d1fa-4e9e-9be1-a249aa4c8a33" />
