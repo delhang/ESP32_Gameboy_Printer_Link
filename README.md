@@ -37,3 +37,8 @@ with `MXW01`. Other cat-shaped pocket printers with that same name use the
 same protocol and should work. The SC03h printer used by the original
 NovenRetro firmware is a different protocol and will not print with this
 file.
+
+
+
+##Schematic for soldering 6 pin GBA (quality cable) to Level Shifter to ESP32 Devkit
+<img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/5280b452-8c42-4a94-b91a-3a3a875497ed" />
