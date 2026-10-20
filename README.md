@@ -66,7 +66,7 @@ https://www.aliexpress.us/item/3256812487912722.html?channel=twinner
 
 
 
-
+## Accessing internal ESP32 via Wifi
 
 Hold down button circled RED to access ESP32 via Wifi.  The light will turn solid blue.  Connect to NRPrinter Hotspot from your phone and open http://192.168.4.1 in a browser.
 
