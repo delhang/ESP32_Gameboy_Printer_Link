@@ -3,3 +3,23 @@ MXW01 printer firmware for an ESP32 Game Boy Printer link.
 The Game Boy link wiring and the original ESP32 printer build come from
 NovenRetro: https://github.com/NovenRetro/SetupNovenRetro.
 This firmware is a separate program for the MXW01 printer.
+
+
+
+## Flash the firmware
+1. Download `MXW01_ESP32_GameboyPrinterLinkV1.zip` from the Releases page and unzip it.
+2. Install [Visual Studio Code](https://code.visualstudio.com/).
+3. In Visual Studio Code, open Extensions and install **PlatformIO IDE**.
+4. Choose **File → Open Folder** and select the unzipped `firmware` folder.
+   That folder must contain `platformio.ini`.
+5. Connect the ESP32 to the computer with a USB data cable.
+6. On the blue PlatformIO bar at the bottom, click the right-arrow button
+   **PlatformIO: Upload**.
+7. The first upload also installs the ESP32 tools, so it can take several
+   minutes. Wait until the terminal says `SUCCESS`.
+Then click the plug icon, **PlatformIO: Serial Monitor**. The first line
+should be `Picture build 19.` The monitor uses 115200 baud. Close the
+monitor before uploading again, or the serial port stays busy.
+If Upload cannot find the port, install the USB driver for the chip on
+your board (CP210x or CH340) and try again. If the upload starts and then
+fails to connect, hold the BOOT button and click Upload once more.
