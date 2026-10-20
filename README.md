@@ -39,12 +39,12 @@ NovenRetro firmware is a different protocol and will not print with this
 file.
 
 
-
+## Soldering Schematic
 Schematic for soldering 6 pin GBA (quality cable) to Level Shifter to ESP32 Devkit
 <img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/5280b452-8c42-4a94-b91a-3a3a875497ed" />
 
 
-
+## Parts list
 ESP32 Unit used for this build
 https://a.co/d/03wegyV9
 
